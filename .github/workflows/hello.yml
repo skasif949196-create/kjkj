@@ -1,5 +1,5 @@
 name : hello
-on: [push]
+on: [ push ]
   jobs:
     greet:
     runs-on: ubuntu-latest
