@@ -4,6 +4,6 @@ __pycache__/
 
 # Pytest results
 results.xml
-
+":"
 # VSCode
 .vscode/
